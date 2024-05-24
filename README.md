@@ -7,3 +7,5 @@ and you can choose such an automatic game.
 I used javascript,html and css for this project.
 
 if you want to see output of this project, click on the link below!.
+
+[Link of the project.](https://rock-paper-scissors-project-app.netlify.app)
